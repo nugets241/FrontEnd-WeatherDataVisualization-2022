@@ -1,5 +1,7 @@
 # Weather Data Visualization
 
+<img src="visualization.png" alt="Weather Data Visualization" width="400"/>
+
 This project is a simple weather data visualization tool built with HTML, CSS, and JavaScript. It fetches weather data and displays it in a user-friendly format.
 
 ## Project Structure
